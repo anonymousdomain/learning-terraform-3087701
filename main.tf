@@ -25,6 +25,7 @@ resource "aws_instance" "dawit" {
 
   tags = {
     Name = "Learning Terraform"
+
   }
 }
 
